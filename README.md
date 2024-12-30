@@ -24,4 +24,4 @@ The **Reverse Video App** allows users to upload a video, which is then processe
 - Required Python packages (listed in `requirements.txt`).
 - Ensure you have the necessary libraries for video processing.
 
-###This app is used to only reverse the video not the audio
+This app is used to only reverse the video not the audio
